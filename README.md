@@ -1,1 +1,1 @@
-# predicting_good_customers
+This project was built to predict the set of customers who would default based on the customer credit card monthly statement for the year 2010 at a bank in Sioux Falls. The dataset has 97465 observations on 25 variables, and it features 9997 unique customers with different attributes. The project makes use of descriptive and exploratory statistics, data pre-processing, data visualization and statistical modeling and model evaluation techniques.
